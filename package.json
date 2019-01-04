@@ -1,0 +1,17 @@
+{
+  "name": "fbvideo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "11.6.0"
+  },
+  "dependencies": {
+    "facebook-api-video-upload": "^1.4.0"
+  }
+}
